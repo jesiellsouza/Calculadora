@@ -54,4 +54,9 @@
     font-size: 15px;
     text-decoration: none;
     color: white;
+    transition: 0.4s;
+}
+
+.criador:hover {
+    text-decoration: underline;
 }
